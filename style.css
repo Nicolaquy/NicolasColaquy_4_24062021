@@ -18,6 +18,20 @@ a:hover {
     cursor: pointer;
 }
 
+.para {
+    font-size: 14px;
+}
+
+.citation {
+    font-style: italic;
+    margin: 10px;
+}
+
+.contact {
+    text-align: center;
+    margin: 20px;
+}
+
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
@@ -771,21 +785,21 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #421d0b;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #e5ff00!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
-    color: #FFFFFF!important;
+    background: #421d0b;
+    color: #e5ff00!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
-    color: #FFFFFF!important;
+    background: #723719!important;
+    color: #e5ff00!important;
 }
 
 .ltc-white {
