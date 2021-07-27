@@ -33,7 +33,8 @@ a:hover {
 }
 
 .portfolio-thumb {
-    width: 100%;
+    width: 80%;
+    margin: 0 auto;
 }
 
 #page-loading-blocs-notifaction {
