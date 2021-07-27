@@ -32,6 +32,10 @@ a:hover {
     margin: 20px;
 }
 
+.portfolio-thumb {
+    width: 100%;
+}
+
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
